@@ -24,7 +24,7 @@ Criar um banco de dados para monitorar preços de combustíveis em 6 postos da c
 
 ## Como usar
 1. Baixe o PDF completo  
-2. Abra a planilha  
-3. Compare os preços
+2. Abra a planilha para ver os dados atualizados  
+3. Compare os preços dos postos
 
 Feito com ❤️ por Luiz Gustavo
