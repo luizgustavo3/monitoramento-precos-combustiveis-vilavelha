@@ -14,10 +14,10 @@ Criar um banco de dados para monitorar preços de combustíveis em 6 postos da c
 ## Gráficos
 
 **Gráfico 1** – Evolução do Preço Médio dos 4 combustíveis  
-![Gráfico 1](https://github.com/luizgustavo3/monitoramento-precos-combustiveis-vilavelha/blob/main/Evolu%C3%A7%C3%A3o%20dos%20Pre%C3%A7os%20M%C3%A9dios%20de%20Combust%C3%ADveis%20(Mar%C3%A7o%202025).png?raw=true)
+![Gráfico 1](grafico1.png)
 
 **Gráfico 2** – Evolução da Gasolina por Posto  
-![Gráfico 2](https://github.com/luizgustavo3/monitoramento-precos-combustiveis-vilavelha/blob/main/Pre%C3%A7os%20M%C3%A9dios%20por%20Posto%20e%20Combust%C3%ADvel.png?raw=true)
+![Gráfico 2](grafico2.png)
 
 ## Planilha Completa
 [📊 Acesse a planilha completa aqui](https://1drv.ms/x/c/16665af2b3acc34d/IQBKQYu4cVxLSL0cPxCSAgsMAfPRqEKp5vJEtmAwMXxuDeE?e=Hcbjkg)
