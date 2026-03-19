@@ -14,17 +14,17 @@ Criar um banco de dados para monitorar preços de combustíveis em 6 postos da c
 ## Gráficos
 
 **Gráfico 1** – Evolução do Preço Médio dos 4 combustíveis  
-![Evolução dos Preços Médios](Evolu%C3%A7%C3%A3o%20dos%20Pre%C3%A7os%20M%C3%A9dios%20de%20Combust%C3%ADveis%20(Mar%C3%A7o%202025).png)
+![Gráfico 1](Evolu%C3%A7%C3%A3o%20dos%20Pre%C3%A7os%20M%C3%A9dios%20de%20Combust%C3%ADveis%20(Mar%C3%A7o%202025).png)
 
 **Gráfico 2** – Evolução da Gasolina por Posto  
-![Evolução da Gasolina por Posto](Pre%C3%A7os%20M%C3%A9dios%20por%20Posto%20e%20Combust%C3%ADvel.png)
+![Gráfico 2](Pre%C3%A7os%20M%C3%A9dios%20por%20Posto%20e%20Combust%C3%ADvel.png)
 
 ## Planilha Completa
 [📊 Acesse a planilha completa aqui](https://1drv.ms/x/c/16665af2b3acc34d/IQBKQYu4cVxLSL0cPxCSAgsMAfPRqEKp5vJEtmAwMXxuDeE?e=Hcbjkg)
 
 ## Como usar
 1. Baixe o PDF completo  
-2. Abra a planilha para ver os dados atualizados  
-3. Compare os preços dos postos
+2. Abra a planilha  
+3. Compare os preços
 
 Feito com ❤️ por Luiz Gustavo
